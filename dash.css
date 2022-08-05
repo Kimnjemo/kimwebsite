@@ -1,0 +1,159 @@
+body{
+	
+	opacity: .7;
+
+}
+
+.head{
+
+		background-color: lime;
+
+	width: 1290px;
+	height: 100px;
+	border-radius: 30px;
+}
+.container{
+	border-radius: 30px;
+	background-color: red;
+	width: 1290px;
+	height: 1000px;
+	border-right-style: dotted;
+
+
+}
+.row{
+	display: inline;
+	height: 800px;
+}
+
+h1{
+
+	margin-left: 35%;
+	font-size: 40px;
+
+}
+
+.bk{
+
+	margin-left: 50px;
+	background-color: black;
+	width: 100px;
+	height: 40px;
+	border-radius: 10px;
+	color: white;
+}
+
+.LG{
+
+	margin-left: 50px;
+	background-color: black;
+	width: 100px;
+	height: 40px;
+	border-radius: 10px;
+	color: white;
+
+}
+
+
+.left{
+	float: left;
+	background: green;
+	width: 60%;
+	height: 1000px;
+		border-right-style: dotted;
+}
+
+.right{
+	float: left;
+	background: green;
+	width: 38%;
+	height: 1000px;
+}
+
+/*.im{
+	float: left;
+	width: 49%;
+	border-right-style: solid;
+	background-color: red;
+	height: 500px;
+	
+	
+}*/
+
+image{
+	width: 100px;
+	float: left;
+	margin-left: 40px;
+	border-radius: 10px;
+}
+
+.inf{
+	float: right;
+	width: 100%;
+	height: 100px;
+	background-color: green;
+	opacity: .7;
+
+}
+
+
+.vt{
+	margin-top: 200px;
+	margin-left: 100px;
+	font-weight: bold;
+	font-size: 20px;
+	color: blue;
+
+}
+
+.candidate{
+	margin-left: 200px;
+	margin-top: 100px;
+	text-decoration-color: lime;
+	color: blue;
+
+
+
+
+}
+
+
+hr{
+	background-color: green;
+}
+
+.text1{
+	color: green;
+}
+
+.text2{
+	color: red;
+}
+
+
+
+.btn1{
+
+	margin-left: 500px;
+	background-color: green;
+	width: 100px;
+	height: 40px;
+	border-radius: 10px;
+	color: white
+
+}
+.btn3{
+	
+	margin-left: 500px;
+	background-color: red;
+	width: 100px;
+	height: 40px;
+	border-radius: 10px;
+	color: white;
+}
+
+
+.btn3:hover{
+	color: blue;
+	background-color: black;
+}
